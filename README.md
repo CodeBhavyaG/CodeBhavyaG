@@ -8,10 +8,11 @@ Rather than just training models in a vacuum, I focus on the entire AI lifecycle
 
 ### 🛠️ My Technical Toolbox
 
-*   **AI & Machine Learning:** LLMs (OpenAI, Anthropic, open-source), Fine-tuning, RAG (Retrieval-Augmented Generation), Prompt Engineering
-*   **Frameworks & Libraries:** PyTorch, Hugging Face, LangChain, LlamaIndex, TensorFlow
+*   **AI & Machine Learning:** LLMs (OpenAI, Anthropic, open-source), Fine-tuning, RAG (Retrieval-Augmented Generation), Prompt Engineering, Context Engineering
+*   **Frameworks & Libraries:** PyTorch, Hugging Face, LangChain
 *   **Data & Databases:** ChromaDB, PostgreSQL, pandas, NumPy, Mysql, Sqlite
 *   **Backend:** Python, Node.js, FastAPI, GraphQL
+*   **Frontend:** React
 
 ---
 
