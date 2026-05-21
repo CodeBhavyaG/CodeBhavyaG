@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Bhavya Gupta! 👋
 
-<!--
-**CodeBhavyaG/CodeBhavyaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **AI Engineer** passionate about bridging the gap between cutting-edge machine learning research and scalable, production-ready applications. I specialize in designing intelligent systems, deploying foundation models, and building autonomous agents that solve complex, real-world problems. 
 
-Here are some ideas to get you started:
+Rather than just training models in a vacuum, I focus on the entire AI lifecycle—from data curation and architecture design to optimization, API integration, and efficient deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Technical Toolbox
+
+*   **AI & Machine Learning:** LLMs (OpenAI, Anthropic, open-source), Fine-tuning, RAG (Retrieval-Augmented Generation), Prompt Engineering
+*   **Frameworks & Libraries:** PyTorch, Hugging Face, LangChain, LlamaIndex, TensorFlow
+*   **Data & Databases:** ChromaDB, PostgreSQL, pandas, NumPy, Mysql, Sqlite
+*   **Backend:** Python, Node.js, FastAPI, GraphQL
+
+---
+
+### 🚀 What I'm Up To
+*   🧠 **Learning & Exploring:** Deep diving into advanced multi-agent orchestration and low-latency model quantization.
+*   🤝 **Collaboration:** Open to contributing to innovative open-source AI tools .
+
+---
+
+### 📫 Connect With Me
+*   💼 LinkedIn: https://www.linkedin.com/in/bhavya-gupta-99aa4a325/
+
+
+"The best way to predict the future is to build it." 🤖✨
