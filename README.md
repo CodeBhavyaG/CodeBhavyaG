@@ -23,7 +23,7 @@ Rather than just training models in a vacuum, I focus on the entire AI lifecycle
 ---
 
 ### 📫 Connect With Me
-*   💼 LinkedIn: https://www.linkedin.com/in/bhavya-gupta-99aa4a325/
+*   💼 LinkedIn: https://www.linkedin.com/in/Bhavya-Gupta1337
 
 
 "The best way to predict the future is to build it." 🤖✨
