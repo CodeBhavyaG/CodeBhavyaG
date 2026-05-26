@@ -1,6 +1,6 @@
 # Hi there, I'm Bhavya Gupta! 👋
 
-I am an **Aspiring AI Engineer** passionate about bridging the gap between cutting-edge machine learning research and scalable, production-ready applications. I specialize in designing intelligent systems, deploying foundation models, and building autonomous agents that solve complex, real-world problems. 
+I am an **AI Engineer** passionate about bridging the gap between cutting-edge machine learning research and scalable, production-ready applications. I specialize in designing intelligent systems, deploying foundation models, and building autonomous agents that solve complex, real-world problems. 
 
 Rather than just training models in a vacuum, I focus on the entire AI lifecycle—from data curation and architecture design to optimization, API integration, and efficient deployment.
 
@@ -23,7 +23,7 @@ Rather than just training models in a vacuum, I focus on the entire AI lifecycle
 ---
 
 ### 📫 Connect With Me
-*   💼 LinkedIn: https://www.linkedin.com/in/Bhavya-Gupta1337
+*   💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/Bhavya-Gupta1337)
 
 
 "The best way to predict the future is to build it." 🤖✨
